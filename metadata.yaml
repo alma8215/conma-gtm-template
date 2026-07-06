@@ -1,4 +1,5 @@
 homepage: https://conma.lat
+documentation: https://github.com/alma8215/conma-gtm-template#readme
 versions:
   - sha: 28bd17573a5dd7934b65cecb2feaecc7830db25d
     changeNotes: |
