@@ -1,6 +1,6 @@
 homepage: https://conma.lat
 versions:
-  - sha: REEMPLAZAR_CON_SHA_DEL_PRIMER_COMMIT
+  - sha: 28bd17573a5dd7934b65cecb2feaecc7830db25d
     changeNotes: |
       Initial release — Conma CMP, Google Consent Mode v2.
       Sets the default consent state on Consent Initialization (priority 999):
