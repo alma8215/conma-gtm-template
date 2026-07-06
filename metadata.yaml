@@ -1,0 +1,9 @@
+homepage: https://conma.lat
+versions:
+  - sha: REEMPLAZAR_CON_SHA_DEL_PRIMER_COMMIT
+    changeNotes: |
+      Initial release — Conma CMP, Google Consent Mode v2.
+      Sets the default consent state on Consent Initialization (priority 999):
+      EEA/UK opt-in (all denied) and global opt-out (permissive) via geo-targeted
+      setDefaultConsentState. Covers all 7 GCM v2 signals, restores prior consent
+      from localStorage, and registers CMP Developer ID dM2M5Yz.
